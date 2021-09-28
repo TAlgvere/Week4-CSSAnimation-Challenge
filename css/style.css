@@ -44,7 +44,7 @@ body {
     background-color: yellow;   
     position: relative;
     animation: yellow;
-    animation-duration: 5s;
+    animation-duration: 3s;
     animation-fill-mode: forwards;
     animation-delay: 2s;
     animation-iteration-count: infinite;
